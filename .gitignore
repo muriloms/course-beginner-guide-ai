@@ -2,13 +2,16 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+Sec2_Moving/[Ll]ibrary/
+Sec2_Moving/[Tt]emp/
+Sec2_Moving/[Oo]bj/
+Sec2_Moving/[Bb]uild/
+Sec2_Moving/[Bb]uilds/
+Sec2_Moving/[Ll]ogs/
+Sec2_Moving/[Mm]emoryCaptures/
+
+Sec2_Moving/UserSettings
+Sec2_Moving/.idea/.idea.BOK_Beta/.idea/indexLayout.xml
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
