@@ -13,6 +13,17 @@ Sec2_Moving/[Mm]emoryCaptures/
 Sec2_Moving/UserSettings
 Sec2_Moving/.idea/.idea.BOK_Beta/.idea/indexLayout.xml
 
+Sec3_Car/[Ll]ibrary/
+Sec3_Car/[Tt]emp/
+Sec3_Car/[Oo]bj/
+Sec3_Car/[Bb]uild/
+Sec3_Car/[Bb]uilds/
+Sec3_Car/[Ll]ogs/
+Sec3_Car/[Mm]emoryCaptures/
+
+Sec3_Car/UserSettings
+Sec3_Car/.idea/.idea.BOK_Beta/.idea/indexLayout.xml
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
