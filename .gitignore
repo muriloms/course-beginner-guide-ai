@@ -24,6 +24,8 @@ Sec3_Car/[Mm]emoryCaptures/
 Sec3_Car/UserSettings
 Sec3_Car/.idea/.idea.BOK_Beta/.idea/indexLayout.xml
 
+Sec4_Car/.idea/.idea.BOK_Beta/.idea/indexLayout.xml
+
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
